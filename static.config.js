@@ -3,7 +3,7 @@ import axios from 'axios'
 
 export default {
   siteRoot: "https://lsst-epo.github.io",
-  basePath: "a-window-to-the-stars",
+  basePath: "window-to-the-stars",
   getSiteData: () => ({
     title: 'React Static',
   }),
