@@ -8,6 +8,7 @@
 # production
 /dist
 /tmp
+/artifacts
 
 # misc
 .DS_Store
@@ -19,8 +20,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-yarn.lock*
 
 # Editor/IDE
 .idea
-packages/api/etc/
+packages/api/etc/dist/
