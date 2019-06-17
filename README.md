@@ -1,3 +1,1 @@
-# React-Static - Basic Template
-
-To use this template, run `react-static create` and use the `basic` template.
+The site is available at: [https://lsst-epo.github.io/window-to-the-stars](https://lsst-epo.github.io/window-to-the-stars).

@@ -2,6 +2,11 @@ import path from 'path'
 import axios from 'axios'
 
 export default {
+  siteRoot: "https://lsst-epo.github.io",
+  basePath: "a-window-to-the-stars",
+  getSiteData: () => ({
+    title: 'React Static',
+  }),
   getRoutes: async () => {
     const { data: posts } = await axios.get(
       'https://jsonplaceholder.typicode.com/posts'

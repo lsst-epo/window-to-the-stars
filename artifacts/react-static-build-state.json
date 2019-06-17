@@ -15,17 +15,17 @@
   "entry": "index.js",
   "plugins": [
     [
-      "/Users/blakemason/code/window-to-the-stars/node_modules/react-static-plugin-source-filesystem/node.api.js",
-      {
-        "location": "/Users/blakemason/code/window-to-the-stars/src/pages"
-      }
-    ],
-    [
       "/Users/blakemason/code/window-to-the-stars/node_modules/react-static-plugin-sass/node.api.js",
       {
         "includePaths": [
           "src/assets/stylesheets"
         ]
+      }
+    ],
+    [
+      "/Users/blakemason/code/window-to-the-stars/node_modules/react-static-plugin-source-filesystem/node.api.js",
+      {
+        "location": "/Users/blakemason/code/window-to-the-stars/src/pages"
       }
     ],
     "/Users/blakemason/code/window-to-the-stars/node_modules/react-static-plugin-reach-router/browser.api.js",
