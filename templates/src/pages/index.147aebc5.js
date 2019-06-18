@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{54:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n.n(c);t.default=function(){return a.a.createElement("div",{style:{textAlign:"center"}},a.a.createElement("h1",null,"Welcome to React-Static"))}}}]);
+//# sourceMappingURL=index.147aebc5.js.map
